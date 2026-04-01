@@ -1,6 +1,6 @@
 # Particles POC
 
-Simple particle engine in Javascript. 
+Simple particles in Javascript. 
 
 DEMO: https://jsfiddle.net/nielsvermeiren/tka05d49/26/
 
